@@ -91,10 +91,5 @@ amc-complaint-portal/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## Still Incomplete
 
-This project is licensed under the MIT License.
-
-## Contact
-
-Vivek Patel - [GitHub Profile](https://github.com/vivekpatel-1962) 
