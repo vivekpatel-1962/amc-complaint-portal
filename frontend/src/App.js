@@ -13,7 +13,6 @@ import Privacy from './pages/Privacy';
 import Terms from './pages/Terms';
 import Contact from './pages/Contact';
 
-
 // Import dashboard components for different roles
 import CitizenDashboard from './pages/dashboards/CitizenDashboard';
 import WardOfficerDashboard from './pages/dashboards/WardOfficerDashboard';
