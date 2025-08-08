@@ -14,7 +14,6 @@ A modern web application for managing and tracking civic complaints in the Ahmed
 
 ## Tech Stack
 
-
 ### Frontend
 - React.js
 - Material-UI
