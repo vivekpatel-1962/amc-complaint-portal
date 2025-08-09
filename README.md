@@ -1,6 +1,5 @@
 # AMC Complaint Portal
 
-
 A modern web application for managing and tracking civic complaints in the Ahmedabad Municipal Corporation area.
 
 ## Features
