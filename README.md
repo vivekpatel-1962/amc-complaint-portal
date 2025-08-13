@@ -92,4 +92,3 @@ amc-complaint-portal/
 5. Open a Pull Request
 
 ## Still Incomplete
-
